@@ -1,0 +1,46 @@
+.maincontent {
+    float: none !important;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 85px;
+    padding-top: 30px;
+    background-color: #e8e2e2;
+    font-family: 'Gudea', sans-serif;
+    border-radius: 5px;
+}
+#imgwell {
+    background: url("http://assets.inhabitat.com/wp-content/blogs.dir/1/files/2016/12/tesla-roadster-3.0-1580x529.jpg") center top no-repeat;
+    background-size: cover;
+    width: auto;
+    height: 300px;
+}
+#herotxt{
+    margin-top: 7px;
+    font-size: 50px;
+    color: white;
+    font-family: 'Abel', sans-serif;
+    text-shadow: 1px 1px 15px rgba(41, 62, 219, 0.5);
+}
+#title {
+    text-align: center;
+    text-shadow: 1px 1px 15px rgba(54, 77, 255, 0.5);
+}
+#subtitle {
+    padding-bottom: 20px;
+}
+#elonpic {
+    background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Elon_Musk_2015.jpg/220px-Elon_Musk_2015.jpg")  no-repeat;
+    background-position: 0px 0px;
+    height: 230px;
+    width: 33%;
+    border-radius: 230px;
+    float: left;
+    
+}
+
+.infotxt {
+    position: relative;
+    top: -20px;
+    left: -105px;
+}
